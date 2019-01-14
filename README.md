@@ -1,4 +1,4 @@
-# Slotted ALOHA simulator [![Author Badge](https://img.shields.io/badge/author-sjkywalker-purple.svg)](https;//github.com/sjkywalker/)
+# Slotted ALOHA simulator [![Author Badge](https://img.shields.io/badge/author-sjkywalker-purple.svg)](https://github.com/sjkywalker/)
 
 Demonstrates the slot efficiency of the slotted ALOHA protocol.
 
