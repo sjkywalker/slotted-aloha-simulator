@@ -30,6 +30,8 @@ Each node has a ttl field, to determine its transmission point
 
 ### Development Environment
 
+Uses venv for python2.7.
+
 ```bash
 $ uname -a
 Linux ubuntu 4.15.0-29-generic #31~16.04.1-Ubuntu SMP Wed Jul 18 08:54:04 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
@@ -37,6 +39,8 @@ Linux ubuntu 4.15.0-29-generic #31~16.04.1-Ubuntu SMP Wed Jul 18 08:54:04 UTC 20
 $ python --version
 Python 2.7.12
 ```
+
+matplotlib==2.2.4
 
 ### Prerequisites
 
